@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-df=pd.read_csv('/content/superstore.csv')
+df=pd.read_csv('superstore.csv')
 
 df.head()
 
